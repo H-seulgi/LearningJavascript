@@ -1,9 +1,6 @@
 # Learing JavaScript
 ## KPI 산출물 정리
 
-### git
-git clone https://github.com/H-seulgi/LearningJavascript.git
-
 
 ### 정리
 
